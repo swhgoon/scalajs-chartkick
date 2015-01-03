@@ -1,4 +1,4 @@
-package com.hpn.scalajs.chartkickk
+package com.hpn.scalajs.chartkick
 
 import org.scalajs.dom.Element
 import scalajs.js
